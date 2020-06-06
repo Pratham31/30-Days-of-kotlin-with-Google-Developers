@@ -5,10 +5,6 @@
 <p>This project is on Creating an Android Weather App using Kotlin.
 To get the weather information I used <a href="https://openweathermap.org" target="_blank">OpenWeatherMap</a> API. 
 Informations like Temperature, Pressure, Humidity, Weather status, Time of Sunrise and Sunset etc. are passed from the API.</p>
-<p>Visit the blog post on <a href="https://www.androdocs.com/tutorials/creating-an-android-weather-app-using-kotlin.html" target="_blank">
-<b>Creating an Android Weather App using Kotlin</b>
-</a>
-</p>
 
 
 <br><h2>Get an API key from OpenWeatherMap</h2>
